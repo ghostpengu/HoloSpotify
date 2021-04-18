@@ -6,7 +6,7 @@
 
 # How to install and run
 ```
-https://github.com/valentino1337/HoloSpotify.git
+git clone https://github.com/valentino1337/HoloSpotify.git
 cd HoloSpotify
 python main.py
 ```
