@@ -1,5 +1,6 @@
 # HoloSpotify
-<center>![banner](https://user-images.githubusercontent.com/80648308/115155139-d3858b00-a07e-11eb-9b11-a4f9dc127c9c.png)</center>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80648308/115155139-d3858b00-a07e-11eb-9b11-a4f9dc127c9c.png"></p>
 <br>A relatively simple Spotify streams botting software made in Python. Reads combos in format "email:password"
 
 # How to install and run
